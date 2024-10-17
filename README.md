@@ -34,8 +34,6 @@ The challenge was creating an application and website the Users could and should
 - bootstrap
 - Agile development
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 During this we learned most about git item to set item, debugging formatting from our instructor, as well as how to use localStorage.
